@@ -17,7 +17,7 @@ A productivity application built with Tkinter that implements the popular Pomodo
 
 ## Installation
 1. Clone the repository:
-   `ash
+   ````bash
    git clone https://github.com/MoayadAlshehry/pomodoro-timer.git
    cd pomodoro-timer
    `
@@ -25,7 +25,7 @@ A productivity application built with Tkinter that implements the popular Pomodo
 
 ## Usage
 Start the application:
-`ash
+````bash
 python main.py
 `
 Click **Start** to begin the timer. Click **Reset** to halt the session and clear the timer.
