@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache
+__pycache__/
+*.py[cod]
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Secrets
+*.pem
+token.txt
+*.sqlite3
