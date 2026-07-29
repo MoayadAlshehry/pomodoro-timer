@@ -15,8 +15,8 @@ Tkinter GUI productivity timer implementing the Pomodoro Technique.
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/MoayadAlshehry/pomodoro-timer.git
-   cd pomodoro-timer
+git clone https://github.com/MoayadAlshehry/pomodoro-timer.git
+cd pomodoro-timer
 ```
 
 ## Usage
