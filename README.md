@@ -1,47 +1,40 @@
-# Pomodoro Timer
+# Pomodoro Productivity Timer
 
 ## Description
-A productivity application built with Tkinter that implements the popular Pomodoro Technique. It alternates between focused work sessions and short/long breaks, using visual cues to guide your workflow.
+Tkinter GUI productivity timer implementing the Pomodoro Technique.
 
 ## Features
-- Standard Pomodoro intervals (25 min work, 5 min short break, 20 min long break).
-- Custom-built graphical user interface using Tkinter canvas.
-- Dynamic color changing to indicate the current phase (Work, Break, Long Break).
-- Checkmark tracking to visually represent completed cycles.
-- Reset functionality to restart the session at any time.
+- 25m work, 5m/20m breaks
+- Visual tomato canvas
+- Cycle checkmarks
 
 ## Technologies
 - Python 3.x
-- 	kinter for the graphical user interface.
-- math for time calculations.
+- tkinter
 
 ## Installation
 1. Clone the repository:
-   ````bash
+   ```bash
    git clone https://github.com/MoayadAlshehry/pomodoro-timer.git
    cd pomodoro-timer
-   `
-2. No external dependencies are required as it uses standard libraries.
+   ```
 
 ## Usage
-Start the application:
-````bash
+Run the application:
+```bash
 python main.py
-`
-Click **Start** to begin the timer. Click **Reset** to halt the session and clear the timer.
+```
 
 ## Project Structure
-- main.py: Application logic and GUI layout.
-- 	omato.png: Background image asset.
-- tomato.png: Source module/asset.
+- `main.py`: Source module/asset.
+- `tomato.png`: Source module/asset.
+- `LICENSE`: MIT License.
 
 ## Requirements
 - Python 3.9+
 
 ## Future Improvements
-- Add custom sound alerts when a timer ends.
-- Allow users to configure custom work/break durations.
-- Add a pause functionality.
+- Maintenance and enhancement updates.
 
 ## License
 This project is licensed under the MIT License.
