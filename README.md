@@ -33,6 +33,7 @@ Click **Start** to begin the timer. Click **Reset** to halt the session and clea
 ## Project Structure
 - main.py: Application logic and GUI layout.
 - 	omato.png: Background image asset.
+- tomato.png: Source module/asset.
 
 ## Requirements
 - Python 3.9+
